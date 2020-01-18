@@ -1,0 +1,2 @@
+C:\Users\kemro\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\FileManager.csprojAssemblyReference.cache
+C:\Users\kemro\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
